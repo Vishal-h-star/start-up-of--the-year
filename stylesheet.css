@@ -19,6 +19,10 @@ h1{
 	text-transform:uppercase;
 }
 
+.animate__animated.animate__backInDown {
+  --animate-duration: 2.5s;
+}
+
 .buffer{
 	height:5rem;
 }
