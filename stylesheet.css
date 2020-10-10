@@ -123,3 +123,18 @@ ul{
 .copyright{
 	text-align:center;
 }
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+  font-size:2em;
+  color:red;
+}
+
+.center a {
+  margin: auto;
+
+  width: 50%;
+   color:red;
+  padding: 10px;
+}
